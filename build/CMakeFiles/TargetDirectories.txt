@@ -1,0 +1,4 @@
+/home/bengisu/Desktop/CSE312/Assignment/build/CMakeFiles/cpu_simulator.dir
+/home/bengisu/Desktop/CSE312/Assignment/build/CMakeFiles/clean_all.dir
+/home/bengisu/Desktop/CSE312/Assignment/build/CMakeFiles/edit_cache.dir
+/home/bengisu/Desktop/CSE312/Assignment/build/CMakeFiles/rebuild_cache.dir

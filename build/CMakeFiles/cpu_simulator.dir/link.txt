@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/cpu_simulator.dir/main.cpp.o CMakeFiles/cpu_simulator.dir/cpu/cpu.cpp.o CMakeFiles/cpu_simulator.dir/memory/memory.cpp.o -o cpu_simulator 
